@@ -1,0 +1,51 @@
+cls 
+#clean scrin
+
+
+pwd
+#shows the path 
+مسیری که در آن قرار داریم را نشان میدهد
+
+
+clear
+#clean scrin
+
+
+ls 
+#show the directory folders
+
+
+dont eat shoger
+
+
+mkdir folder_name
+#create  new folder
+
+
+cd path_name
+#change directory
+cd ..
+#change diretory to a folder up
+
+
+rm folder_name
+#delete folder
+rm -r folder name
+#deletes 
+
+touch <name>
+#create a file
+
+cat file_name
+#open file
+
+
+echo "" > file_name
+#add to file ovewrite
+
+
+echo "" >> file_name
+#append to file
+
+
+
